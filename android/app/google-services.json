@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "549924956745",
+    "project_id": "fbconnection-3757d",
+    "storage_bucket": "fbconnection-3757d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549924956745:android:50b4051d94be6178e9ad98",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Qlu5UDW3fff-EVUZBRm4xyoogze93qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549924956745:android:41ab2e561c898988e9ad98",
+        "android_client_info": {
+          "package_name": "com.fbconnection.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Qlu5UDW3fff-EVUZBRm4xyoogze93qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
